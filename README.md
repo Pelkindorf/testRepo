@@ -4,3 +4,5 @@ Hello
  Privet
  Hello
  Some mo text
+dead
+Dude
